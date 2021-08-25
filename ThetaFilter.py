@@ -7,7 +7,7 @@ import numpy as np
 
 class thetaFilter:
 
-    def __init__(self, image, z, c, n, t):
+    def __init__(self, image)
         self.image_gray = image
 
     def set_theta(self):
