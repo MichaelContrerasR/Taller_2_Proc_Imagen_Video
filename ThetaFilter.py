@@ -7,7 +7,11 @@ import numpy as np
 
 class thetaFilter:
 
+<<<<<<< HEAD
     def __init__(self, image):
+=======
+    def __init__(self, image)
+>>>>>>> 2da471cdcb78f450513598a8cdf6809380e84d51
         self.image_gray = image
 
     def set_theta(self):
